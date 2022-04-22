@@ -1,26 +1,32 @@
 {
-    "drink" : [
+    "value": [
         {
-            "name" : "Spritz",
-            "description": "",
-            "price" : 3.1
+            "drink": [
+                {
+                    "name": "Spritz",
+                    "description": "",
+                    "price": 3.1
+                },
+                {
+                    "name": "The",
+                    "description": "",
+                    "price": 2.0
+                }
+            ]
         },
         {
-            "name" : "The",
-            "description": "",
-            "price" : 2.0
-        }
-    ],
-    "food" : [
-        {
-            "name" : "Patatine",
-            "description": "",
-            "price" : 3.0
-        },
-        {
-            "name" : "Salatini",
-            "description": "",
-            "price" : 1.0
+            "food": [
+                {
+                    "name": "Patatine",
+                    "description": "",
+                    "price": 3.0
+                },
+                {
+                    "name": "Salatini",
+                    "description": "",
+                    "price": 1.0
+                }
+            ]
         }
     ]
 }
