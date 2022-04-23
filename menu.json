@@ -1,7 +1,8 @@
 {
     "category": [
         {
-            "drink": [
+            "type" : "drink",
+            "products": [
                 {
                     "name": "Spritz",
                     "description": "",
@@ -15,7 +16,8 @@
             ]
         },
         {
-            "food": [
+            "type" : "food",
+            "products": [
                 {
                     "name": "Patatine",
                     "description": "",
